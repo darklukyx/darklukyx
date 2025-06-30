@@ -2,8 +2,6 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
-/>
 <img 
     align="left" 
     alt="Python" 
